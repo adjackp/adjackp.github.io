@@ -1,4 +1,4 @@
-# HI JOE!
+# Placeholder
 
 #### Jekyll Themes
 
